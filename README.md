@@ -7,5 +7,6 @@ Python project about object oriented programming
 ####  object oriented programming concepts
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	a) classes and objects
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	b) encapsulation (public , protected , private variables)
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Links:- https://www.geeksforgeeks.org/python-oops-concepts/
 
 
